@@ -6,3 +6,6 @@ The aim of this project is to develop a comprehensive and accessible support sys
 
 ## Demo Video:
 
+
+https://github.com/meghav31/cognicare/assets/116701591/0905ccdf-8d2c-4a40-9acb-4a061295a108
+
